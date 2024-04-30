@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">applicationAnimate</string>
+    <string name="titulo">Sigueme</string>
+    <string name="titulo1">Tocame</string>
+    <string name="nombre">Lauren Rowsie</string>
+    <string name="biografia">Lauren Rowsie es una autora contemporánea de gran éxito. Vive en San Diego, California, donde se sumerge en la escritura de novelas divertidas, emotivas y apasionantes. Sus libros están llenos de amor, familia encontrada y romance. </string>
+    <string name="libros">Estos son algunos libros</string>
+    <string name="libro1">"The Josh And Kat Trilogy"</string>
+    <string name="libro2">"Bad Liar"</string>
+    <string name="libro3">"Falling Into Love With You"</string>
+</resources>
