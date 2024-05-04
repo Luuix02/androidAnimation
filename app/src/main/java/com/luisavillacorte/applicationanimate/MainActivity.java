@@ -2,6 +2,7 @@ package com.luisavillacorte.applicationanimate;
 
 import android.animation.Animator;
 import android.animation.ObjectAnimator;
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.Path;
 import android.os.Bundle;
@@ -33,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     Path efecto;
 
     Button btnAnimate;
+    Button btnAnimates;
     Button btnAn;
     ImageView imgLauren;
     ImageView libroBad;
@@ -162,6 +164,15 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 animator.start();
+            }
+        });
+
+        btnAnimates=findViewById(R.id.btnAnimates);
+        btnAnimates.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent next = new Intent(MainActivity.this, Animate.class);
+                startActivity(next);
             }
         });
     }

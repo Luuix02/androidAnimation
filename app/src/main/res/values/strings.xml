@@ -2,10 +2,23 @@
     <string name="app_name">applicationAnimate</string>
     <string name="titulo">Sigueme</string>
     <string name="titulo1">Tocame</string>
+    <string name="titulo2">Siguiente</string>
     <string name="nombre">Lauren Rowsie</string>
     <string name="biografia">Lauren Rowsie es una autora contemporánea de gran éxito. Vive en San Diego, California, donde se sumerge en la escritura de novelas divertidas, emotivas y apasionantes. Sus libros están llenos de amor, familia encontrada y romance. </string>
     <string name="libros">Estos son algunos libros</string>
     <string name="libro1">"The Josh And Kat Trilogy"</string>
     <string name="libro2">"Bad Liar"</string>
     <string name="libro3">"Falling Into Love With You"</string>
+    <string name="btnZi">ZOOM IN</string>
+    <string name="btnZo">ZOOM OUT</string>
+    <string name="btnFi">FADE IN</string>
+    <string name="btnFo">FADE OUT</string>
+    <string name="btnSl">SLIDE LEFT</string>
+    <string name="btnSr">SLIDE RIGHT</string>
+    <string name="btnSu">SLIDE UP</string>
+    <string name="btnSd">SLIDE DOWN</string>
+    <string name="btnZfi">ZOOM IN + FADE IN</string>
+    <string name="btnZfo">ZOOM OUT + FADE OUT</string>
+    <string name="btnRot">ROTATE</string>
+    <string name="btnMov">MOVE</string>
 </resources>

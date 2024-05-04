@@ -119,6 +119,11 @@
         android:layout_height="50dp"
         android:layout_gravity="center"
         android:text="@string/titulo" />
-
+    <Button
+        android:id="@+id/btnAnimates"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:text="@string/titulo2" />
 
 </LinearLayout>
